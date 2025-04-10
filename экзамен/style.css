@@ -1,0 +1,90 @@
+.logo {
+  display: flex;
+  justify-content: center;
+  block-size: 40px;
+  padding-top: 30px;
+}
+h1 {
+  font-size: 40px;
+}
+.logo2 {
+  display: flex;
+  justify-content: center;
+}
+.str2 {
+  display: flex;
+  justify-content: center;
+}
+.str2_1 {
+  margin-left: 10px;
+}
+.two1 {
+  margin-left: 20px;
+  margin-right: 15px;
+}
+.two {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  background-color: black;
+  padding: 30px;
+  color: aliceblue;
+}
+.block1 {
+  background-image: url("https://avatars.mds.yandex.net/i?id=2f720130261d3f74727332dcd070c97e_l-5205187-images-thumbs&n=13");
+
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  gap: 30px;
+  padding-bottom: 300px;
+}
+.cards {
+  background-color: white;
+  display: flex;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.knopka {
+  background-color: rgb(93, 164, 164);
+  height: 30px;
+  width: 100px;
+  text-align: center;
+  padding-top: 12px;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+.img3 {
+  height: 20vh;
+  width: 90%;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.f1 {
+  display: inline-block;
+  background-color: white;
+  height: 200px;
+  width: 300px;
+}
+.form1 {
+  display: inline-block;
+  height: 200px;
+  width: 300px;
+}
+.text-form {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  height: 30px;
+  width: 200px;
+  font-size: 22px;
+}
